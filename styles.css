@@ -1,33 +1,43 @@
 h1 {
-    border:2px solid lightblue;
-    background-color: powderblue;
-    font-family:Verdana, Geneva, Tahoma, sans-serif
+    border:2px solid lightgray;
+    background-color: lightslategray;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 1px;
+    padding: 2px;
 }
 h3 {
-    border:2px solid lightcyan;
-    background-color: powderblue;
-    font-family:Verdana, Geneva, Tahoma, sans-serif
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 p{
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 a:active {
-    background-color: lightblue;
     color: red;
-    font-family:Verdana, Geneva, Tahoma, sans-serif
+    background-color: transparent;
+    text-decoration: none;
     
 }
 a:hover {
     color:blueviolet;
-    font-family:Verdana, Geneva, Tahoma, sans-serif
+    background-color: transparent;
+    text-decoration: none;
 }
 
 a:visited {
     color:cadetblue;
-    font-family:Verdana, Geneva, Tahoma, sans-serif
+    background-color: transparent;
+    text-decoration: none;
 }
 
 a:link {
-    color:burlywood;
-    font-family:Verdana, Geneva, Tahoma, sans-serif
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+span {
+    border:2px solid lightcyan;
+    background-color: powderblue;
+    padding: 5px;
+    margin: 5px;
 }
