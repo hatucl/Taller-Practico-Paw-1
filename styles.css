@@ -5,34 +5,28 @@ h1 {
     margin: 1px;
     padding: 2px;
 }
-h3 {
+h5 {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
 }
 p{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     margin: 1px;
 }
-a:active {
-    color: red;
-    background-color: transparent;
-    text-decoration: none;
-    
-}
-a:hover {
-    color:blueviolet;
-    background-color: transparent;
-    text-decoration: none;
-}
-
-a:visited {
-    color:cadetblue;
-    background-color: transparent;
-    text-decoration: none;
-}
 
 a:link {
-    color: black;
-    background-color: transparent;
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:visited  {
     text-decoration: none;
 }
 
@@ -49,10 +43,10 @@ main {
     gap: 20px;
 }
 
-section {
-    border: 5px solid lightslategray;
+<!--section {
 
-}
+
+}-->
 
 .contenedor {
     display: flex;
