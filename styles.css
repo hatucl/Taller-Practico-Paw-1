@@ -41,3 +41,9 @@ span {
     padding: 5px;
     margin: 5px;
 }
+
+main {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 20px;
+}
