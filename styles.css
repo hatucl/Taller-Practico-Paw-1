@@ -53,3 +53,13 @@ section {
     border: 5px solid lightslategray;
 
 }
+
+.contenedor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    margin: 20px;
+}
