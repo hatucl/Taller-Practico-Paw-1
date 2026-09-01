@@ -10,6 +10,7 @@ h3 {
 }
 p{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 1px;
 }
 a:active {
     color: red;
@@ -36,8 +37,8 @@ a:link {
 }
 
 span {
-    border:2px solid lightcyan;
-    background-color: powderblue;
+    border:2px solid lightgray;
+    background-color: lightslategray;
     padding: 5px;
     margin: 5px;
 }
@@ -46,4 +47,9 @@ main {
     display: grid;
     grid-template-columns: 1fr 2fr;
     gap: 20px;
+}
+
+section {
+    border: 5px solid lightslategray;
+
 }
