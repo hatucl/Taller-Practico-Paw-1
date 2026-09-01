@@ -1,0 +1,33 @@
+h1 {
+    border:2px solid lightblue;
+    background-color: powderblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+h3 {
+    border:2px solid lightcyan;
+    background-color: powderblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+a:active {
+    background-color: lightblue;
+    color: red;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+    
+}
+a:hover {
+    color:blueviolet;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+a:visited {
+    color:cadetblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+a:link {
+    color:burlywood;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
